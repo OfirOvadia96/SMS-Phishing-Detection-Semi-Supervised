@@ -33,7 +33,7 @@ Refer to the folder and attend readme to generate the model.
 <table>
   <tr>
     <td align="center"><a href="https://github.com/LiorAtiya"><img src="https://i.ibb.co/G9Nq6X0/Screenshot-2021-12-01-221123.png" width="100px;" alt=""/><br /><sub><b>Lior Atiya</b></sub></a><br /> </td>
-    <td align="center"><a href="https://github.com/OfirOvadia96"><img src="https://i.ibb.co/3kXVGdg/Screenshot-2021-12-01-220951.png" width="100px;" alt=""/><br /><sub><b>Ofir Ovadia</b></sub></a><br /> </td>
+    <td align="center"><a href="https://github.com/OfirOvadia96"><img src="https://imgur.com/8S5Bma2.png" width="85px;" alt=""/><br /><sub><b>Ofir Ovadia</b></sub></a><br /> </td>
     <td align="center"><a href="https://github.com/matannagar"><img src="https://i.imgur.com/ArYupeH.png" width="100px;" alt=""/><br /><sub><b>matan ben-nagar</b></sub></a><br /> </td>
   </tr>
 </table>
